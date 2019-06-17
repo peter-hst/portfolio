@@ -33,6 +33,11 @@
 ![image](img/zzu/01.png)
 
 - 智能景区业务,根据地图坐标查询酒店,门店,景点介绍
+- 业务模块
+![image](img/xy/xy_mod.png)
+![image](img/xy/xy_top.png)
+
+- 产品界面
 ![image](img/zzu/report.png)
 ![image](img/zzu/24.png)
 ![image](img/zzu/30.png)
